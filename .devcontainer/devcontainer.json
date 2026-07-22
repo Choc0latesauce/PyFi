@@ -1,11 +1,12 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {"forwardPorts": [6080],
+  "features": {},
+  "forwardPorts": [6080],
   "portsAttributes": {
     "6080": {
       "label": "desktop"
     }
   }
-}
+
   
 }
