@@ -23,6 +23,9 @@ Then you need PyFi! My Spotify or Apple Music esque mp3 player that allows you t
 - 🎵 EQ mode - Wanna change how your music sounds? Choose from 20 custom EQ presets.
 - 💾 Persistence - PyFi makes use of .json files in order to save your settings and media between sessions.
 - 🗄️ External storage support - Allows you to use external storage including USB sticks and NAS servers, saving between disconnects.
+- 🌐 Multi Language support - Almost full translations of both Spanish and Swedish
+
+## How to Install:
 
 ## Common Questions
 - Q: How do I upload songs? A: Click upload songs and then selects the songs you want, It's that simple.
@@ -30,3 +33,6 @@ Then you need PyFi! My Spotify or Apple Music esque mp3 player that allows you t
 - Q: Is it free? A: Always and forever.
 - Q: What should I do if I find a bug? A: Reach out to me please!
 - Q: How can I support? A: Uhmmm I don't really know, reach out to me?
+
+## Known Bugs
+Some of the UI hasn't been translated yet, my translators have been really busy with other projects, will get it done asap.
