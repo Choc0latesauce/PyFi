@@ -97,7 +97,7 @@ class App(customtkinter.CTk):
         vlc_args = ["--quiet", "--clock-jitter=0", "--file-caching=1000", "--network-caching=1000"]
                         
         self.title("PyFi")
-        self.geometry("480x1000")
+        self.geometry("480x460")
         self.resizable(width=False, height=True)
         
         self.is_dragging = False
@@ -122,21 +122,20 @@ class App(customtkinter.CTk):
         self.tab_player.grid_columnconfigure(0, weight=1)
         self.tab_player.grid_columnconfigure(1, weight=0)
         self.tab_player.grid_columnconfigure(2, weight=1)
-        
         self.tab_player.grid_columnconfigure(0, weight=1)
         self.tab_player.grid_columnconfigure(1, weight=0)
         self.tab_player.grid_columnconfigure(2, weight=1)
-        self.tab_player.grid_rowconfigure(0, weight=2)
-        self.tab_player.grid_rowconfigure(1, weight=1)
+        self.tab_player.grid_rowconfigure(0, weight=1)
+        self.tab_player.grid_rowconfigure(1, weight=0)
         self.tab_player.grid_rowconfigure(2, weight=0)
         self.tab_player.grid_rowconfigure(3, weight=0)
-        self.tab_player.grid_rowconfigure(4, weight=2)
+        self.tab_player.grid_rowconfigure(4, weight=1)
         self.tab_player.grid_rowconfigure(5, weight=0)
-        self.tab_player.grid_rowconfigure(6, weight=0)
+        self.tab_player.grid_rowconfigure(6, weight=1)
         self.tab_player.grid_rowconfigure(7, weight=0)
         
         self.is_playing = False
-        song = "No_Geography.mp3"
+        song = ""
         songpath = os.path.normpath(os.path.abspath(song))
         
         self.preset_map = {}
