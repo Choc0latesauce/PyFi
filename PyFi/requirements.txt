@@ -1,0 +1,4 @@
+customtkinter
+mutagen
+python-vlc
+pillow

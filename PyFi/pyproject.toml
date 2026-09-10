@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyFi"
+version = "0.1.0"
+description = "Take Back Your Tunes!"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "customtkinter",
+    "mutagen",
+    "python-vlc",
+    "pillow"
+]
+
+[project.scripts]
+pyfi = "pyfi:app.mainloop"
