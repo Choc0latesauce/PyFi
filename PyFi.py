@@ -664,7 +664,7 @@ class App(customtkinter.CTk):
         current_theme = self.colour_menu.get() if hasattr(self, "colour_menu") else "Blue"
         colours = {"Blue": {"main": "#1f538d", "hover": "#14375e"}, "Red": {"main": "#c62828", "hover": "#8e0000"}, "Green": {"main": "#2e7d32", "hover": "#005005"}, "Yellow": {"main": "#fbc02d", "hover": "#c49000"}, "Orange": {"main": "#e65100", "hover": "#ac1900"}, "Pink": {"main": "#d81b60", "hover": "#a00037"}, "Purple": {"main": "#7b1fa2", "hover": "#4a0072"}, "Turquoise": {"main": "#00897b", "hover": "#005b4f"},}
         theme = colours.get(current_theme, colours["Blue"])
-        self.fav_btn = customtkinter.CTkButton(self.library_scroll, text=f"❤️ Liked Songs ({len(self.favourites)} tracks)", height=50, fg_color=theme["main"], hover_color=theme["hover"], font=("Arial", 14, "bold"), command=self.load_favourites_playlist)
+        self.fav_btn = customtkinter.CTkButton(self.library_scroll, text=f"❤️ Favourited Songs ({len(self.favourites)} tracks)", height=50, fg_color=theme["main"], hover_color=theme["hover"], font=("Arial", 14, "bold"), command=self.load_favourites_playlist)
         self.fav_btn.pack(fill="x", padx=10, pady=(10,5))
         self.play_all_btn = customtkinter.CTkButton(self.library_scroll, text=f"▶️ Play All Tracks ({len(getattr(self,'playlist', []))} tracks)", height=50, fg_color=theme["main"], hover_color=theme["hover"], font=("Arial", 14, "bold"), command=self.play_all_callback)
         self.play_all_btn.pack(fill="x", padx=10, pady=(0,15))
