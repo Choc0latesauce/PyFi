@@ -6,7 +6,7 @@ Do you like listening to music? - Most likely.
 Are you fed up with money hungry billionaires pilfering your wallet in order for you to listen to your tracks in an accessible way? - Most Likely.
 Do you want to actually **OWN your music** but not have to faff around with awful UI and/or optical media? - Most Likely...  
 
-Then you need PyFi! My Spotify or Apple Music esque mp3 player that allows you to listen to your music and actually own it all while having a sleek and intuitive user and familiar interface and is chocked full of useful features.  
+Then you need PyFi! My Spotify or Apple Music esque mp3 player that allows you to listen to your music and actually own it all while having a sleek and intuitive UI that is chock-full of useful features.  
 
 ## The Features
 - 📱 Intuitive & customisable UI - Anything as long as it's blue, red, yellow, pink, green, purple or turquoise! 
@@ -16,7 +16,7 @@ Then you need PyFi! My Spotify or Apple Music esque mp3 player that allows you t
 - 🔁 Song looper - Loops songs!
 - 🔊 Volume slider - Easy In-App audio control
 - 🎼 Current playlist viewer - Allows you to see upcoming songs and reorder them by dragging them
-- 📌 Pin window - Pin the window ontop of others which goes well with:
+- 📌 Pin window - Pin the window on top of others which goes well with:
 - 🪟 Scalable window - Have as much or as little info as you want, go from a full Spotify like view to a minimal one.
 - 📚 Library view - View your uploaded albums in an easy format and load their tracks or play your custom playlist made using:
 - 💖 The favourite button - Favourite your songs in order to add them to a custom playlist that you can use at any point.
@@ -45,12 +45,12 @@ Then you need PyFi! My Spotify or Apple Music esque mp3 player that allows you t
 
 ### Option 2, The manual method:
 1. In your preferred editor run: git clone https://github.com/Choc0latesauce/PyFi.git
-2. Then: cd PyFi.py
+2. Then: cd PyFi
 3. Install the dependencies with: pip install -r requirements.txt
 4. Now run PyFi with: python pyfi.py
 
 ## Common Questions
-- Q: How do I upload songs? A: Click upload songs and then selects the songs you want, It's that simple.
+- Q: How do I upload songs? A: Click upload songs and then select the songs you want, It's that simple.
 - Q: How do I obtain songs? A: Up to you...
 - Q: Is it free? A: Always and forever.
 - Q: What should I do if I find a bug? A: Reach out to me please!
