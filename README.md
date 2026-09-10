@@ -1,6 +1,8 @@
 # PyFi - Reclaim the Music you Love 🎶
 My python based music service, remixed!!
 
+<img width="1407" height="299" alt="PyFi Logo" src="https://github.com/user-attachments/assets/ac46f48e-bfa8-43e4-929c-28ed91d690e1" />
+
 ## The Pitch
 Do you like listening to music? - Most likely.  
 Are you fed up with money hungry billionaires pilfering your wallet in order for you to listen to your tracks in an accessible way? - Most Likely.
