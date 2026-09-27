@@ -1,7 +1,7 @@
 # PyFi - Reclaim the Music you Love 🎶
 My python based music service, remixed!!
 
-<img width="1407" height="299" alt="PyFi Logo" src="https://github.com/user-attachments/assets/ac46f48e-bfa8-43e4-929c-28ed91d690e1" />
+<img width="1407" height="299" alt="pyfilogo" src="https://github.com/user-attachments/assets/3bb1f156-bb78-4a24-9b38-a093c2555aab" />
 
 ## DISCLAIMER
 This readme is not AI generated!!
