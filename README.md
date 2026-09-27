@@ -11,22 +11,21 @@ Do you want to actually **OWN your music** but not have to faff around with awfu
 Then you need PyFi! My Spotify or Apple Music esque mp3 player that allows you to listen to your music and actually own it all while having a sleek and intuitive UI that is chock-full of useful features.  
 
 ## The Features
-- Intuitive & customisable UI - Anything as long as it's blue, red, yellow, pink, green, purple or turquoise! 
-- Infinite upload potential - Upload single song or whole albums in one go, all of which are cataloged by the:
-- PyFi meta ripper™ - Pulls album info, artist info and thumbnails from your tracks in order to organise them automatically.
-- Shuffle - Pretty self explanatory, shuffles songs innit...
-- Song looper - Loops songs!
-- Volume slider - Easy In-App audio control
-- Current playlist viewer - Allows you to see upcoming songs and reorder them by dragging them
-- Pin window - Pin the window on top of others which goes well with:
-- Scalable window - Have as much or as little info as you want, go from a full Spotify like view to a minimal one.
-- Library view - View your uploaded albums in an easy format and load their tracks or play your custom playlist made using:
-- The favourite button - Favourite your songs in order to add them to a custom playlist that you can use at any point.
-- EQ mode - Wanna change how your music sounds? Choose from 20 custom EQ presets.
-- Persistence - PyFi makes use of .json files in order to save your settings and media between sessions.
-- External storage support - Allows you to use external storage including USB sticks and NAS servers, saving between disconnects.
-- Multi Language support - Almost full translations of both Spanish and Swedish
-- The ultimate file support - PyFi supports almost any audio format you can throw at it.
+- 📱 Intuitive & customisable UI - Anything as long as it’s blue, red, yellow, pink, green, purple or turquoise!
+- ♾️ Infinite upload potential - Upload single song or whole albums in one go, all of which are cataloged by the:
+- 🖼️ PyFi meta ripper™ - Pulls album info, artist info and thumbnails from your tracks in order to organise them automatically.
+- 🔀 Shuffle - Pretty self explanatory, shuffles songs innit…
+- 🔁 Song looper - Loops songs!
+- 🔊 Volume slider - Easy In-App audio control
+- 🎼 Current playlist viewer - Allows you to see upcoming songs and reorder them by dragging them
+- 📌 Pin window - Pin the window ontop of others which goes well with:
+- 🪟 Scalable window - Have as much or as little info as you want, go from a full Spotify like view to a minimal one - more later.
+- 📚 Library view - View your uploaded albums in an easy format and load their tracks or play your custom playlist made using:
+- 💖 The favourite button - Favourite your songs in order to add them to a custom playlist that you can use at any point.
+- 🎵 EQ mode - Wanna change how your music sounds? Choose from 20 custom EQ presets.
+- 💾 Persistence - PyFi makes use of .json files in order to save your settings and media between sessions.
+- 🗄️ External storage support - Allows you to use external storage including USB sticks and NAS servers, saving between disconnects.
+- 🌐 Multi Language support - Almost full translations of both Spanish and Swedish
 
 ## How to Install:
 
